@@ -98,5 +98,6 @@ Jupyter Notebook _Customer_Segmentation_.ipynb
 ## 👩‍💻 Author
 Tanya Chauhan
 📧 tanyachauhan084@gmail.com
+<br>
 🌐 LinkedIn [https://www.linkedin.com/in/tanya-chauhan-99a5aa355/]
 
