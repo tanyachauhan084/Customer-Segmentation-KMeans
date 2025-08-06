@@ -58,7 +58,7 @@ Businesses often deal with large customer bases with diverse behaviors. By apply
 
 1. **Preprocessing**: Selected relevant features (Annual Income, Spending Score)
 2. **Finding optimal clusters**: Used the Elbow method to determine best value of `k`
-3. **Modeling**: Applied KMeans and trained the model
+3. **Modeling**: Applied KMeans and trained the model.
 4. **Visualization**: Plotted the clusters in 2D to see customer segmentation
 
 ---
